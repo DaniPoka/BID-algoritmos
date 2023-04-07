@@ -1,0 +1,48 @@
+¿Qué es el código fuente?
+El código fuente es el conjunto de instrucciones escritas en un lenguaje de programación que le indican a la computadora qué acciones realizar.
+
+De todos modos, ¿qué hace que las computadoras sean tan "inteligentes"?
+Las computadoras no son inherentemente "inteligentes", su capacidad para procesar y almacenar información se debe a su diseño y arquitectura.
+
+¿Cuál es el propósito de un lenguaje de programación?
+El propósito de un lenguaje de programación es permitir a los programadores crear software y aplicaciones de manera más eficiente y legible.
+
+¿Cuáles son 3 ejemplos de lenguajes de programación? ¿Por qué hay tantos de estos?
+Tres ejemplos de lenguajes de programación son Java, Python y C++. Hay muchos lenguajes de programación debido a que cada uno tiene características y usos únicos.
+
+¿Qué es una variable? ¿Por qué son útiles las variables?
+Una variable es un contenedor para un valor.
+
+¿Cuál es la diferencia entre un simple igual (=) y un doble igual (==)?
+Un simple igual (=) se utiliza para asignar un valor a una variable, mientras que un doble igual (==) se utiliza para comparar dos valores.
+
+¿Cuál es la diferencia entre un doble igual (==) y un triple igual (===)?
+Un doble igual (==) se utiliza para comparar dos valores, mientras que un triple igual (===) se utiliza para comparar tanto el valor como el tipo de datos.
+
+¿Por qué existe la consola del desarrollador?
+La consola del desarrollador es una herramienta que permite a los desarrolladores revisar errores y cosas que suceden con el código a traves de logs.
+
+Cuando hablamos de declaraciones "condicionales", ¿qué significa eso? ¿Cuál sería un ejemplo?
+Las declaraciones "condicionales" son instrucciones que se ejecutan si se cumple una determinada condición. 
+Un ejemplo sería "si el usuario ha iniciado sesión, mostrar su nombre en la pantalla".
+
+¿Por qué querríamos bucles FOR o WHILE en nuestro código fuente?
+Los bucles FOR y WHILE se utilizan para repetir una sección de código varias veces. Se utilizan para realizar tareas repetitivas o procesar grandes conjuntos de datos.
+
+¿Cuándo usarías un bucle WHILE, en lugar de un bucle FOR?
+Se usaría un bucle WHILE cuando no se sabe cuántas veces se repetirá la sección de código, y un bucle FOR cuando se sabe exactamente cuántas veces se debe repetir.
+
+¿Qué es una función? ¿Para qué usaríamos las funciones?
+Una función es un bloque de código que realiza una tarea específica y se puede llamar desde cualquier parte del programa. 
+Las funciones se utilizan para organizar el código y hacerlo más fácil de entender y mantener.
+
+¿Cuántos valores puedes recibir de una función? ¿Cuántos valores puedes enviar?
+Una función puede devolver cero o un valor, y puede recibir cero o varios valores.
+
+¿Qué es un arreglo? ¿Cuántos valores contiene?
+Un arreglo es una estructura de datos que contiene una lista ordenada de elementos. 
+El número de valores que contiene depende de la cantidad de elementos que se agreguen.
+
+¿Qué es un diagrama T y por qué debería saber cómo usar uno?
+Un diagrama T es una herramienta utilizada en el diseño de software que ayuda a definir los requisitos y características de un sistema. 
+Es útil porque permite al equipo de desarrollo comprender claramente lo que se espera del software antes de comenzar a programar.
